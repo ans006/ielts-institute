@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ielts-institute/static/css/main.93313a42.css",
+    "main.js": "/ielts-institute/static/js/main.2cb330ce.js",
+    "index.html": "/ielts-institute/index.html",
+    "main.93313a42.css.map": "/ielts-institute/static/css/main.93313a42.css.map",
+    "main.2cb330ce.js.map": "/ielts-institute/static/js/main.2cb330ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93313a42.css",
+    "static/js/main.2cb330ce.js"
+  ]
+}
