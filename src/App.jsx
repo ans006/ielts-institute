@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Features from "./components/Features";
 import Testimonials from "./components/Testimonials";
-import Contact from "./pages/Contact";
+import Footer from "./components/Footer"; // your existing footer
 
 const App = () => {
   return (
@@ -12,9 +12,9 @@ const App = () => {
       <Hero />
       <Features />
       <Testimonials />
-      <Contact />
+      <Footer />
     </div>
   );
 };
 
-export default App; // <-- this default export is required
+export default App;
